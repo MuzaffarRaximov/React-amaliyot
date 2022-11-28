@@ -1,0 +1,18 @@
+.mainBody{
+    height: 82.8vh;
+}
+
+.footerText{
+    position: relative;
+    left: 35rem;
+    color: aliceblue;
+}
+
+.form-select{
+    width: 9rem !important;
+    margin-right: 2rem;
+}
+
+.uzunlik{
+    width: 120px;
+}
